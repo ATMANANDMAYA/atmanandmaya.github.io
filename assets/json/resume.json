@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Atmanandmaya",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "atmanandmaya@iisc.ac.in, atmanandmaya@gmail.com",
+    "phone": "+91-8942031196",
+    "url": "https://atmanandmaya.github.io",
+    "summary": "Currently pursuing Doctor of Philosophy (PhD) in the Department of Energy Research (formerly Interdisciplinary Centre for Energy Research (ICER)), Indian Institute of Science, Bangalore, INDIA, under the guidance of Prof L. Umanand and Dr. Subba Reddy B.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "215, Photovoltaic and Microgrid Monitoring Facility, Department of Energy Research (ICER), Indian Institute of Science",
+      "postalCode": "KA-560012",
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
     "profiles": [
       {
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Department of Energy Research, Indian Institute of Science",
+      "position": "PhD. Student",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2019-08-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Thermoelectric","Desalination","Energy Harvesting"]
     }
   ],
   "volunteer": [
