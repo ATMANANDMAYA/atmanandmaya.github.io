@@ -27,4 +27,6 @@ My current research encompasses both fundamental and applied sciences. 1) on the
 
 Experience in designing and experimentally evaluating multilevel inverter and dc-dc converter. 
 
+Areas of research interest are power electronics for renewable energy conversion (specifically dc-dc converter and MPPT), Bond graph modelling of physical systems, application of thermoelectric modules for energy harvesting and hybrid PVT systems, thermal desalination with interfacial heat localization, Decarbonisation
+
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
