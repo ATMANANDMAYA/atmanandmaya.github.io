@@ -2,7 +2,7 @@
 layout: about
 title: Atmanandmaya
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Beyond Causality
 
 profile:
   align: right
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Pursuing Doctor of Philosophy (PhD) in the Department of Energy Research (formerly Interdisciplinary Centre for Energy Research (ICER)), Indian Institute of Science, Bangalore, INDIA, under the guidance of Prof L. Umanand and Dr. Subba Reddy B. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research is centered on developing a decentralized hybrid source thermal desalination system that efficiently utilizes latent heat. This system is integrated with a Photovoltaic (PV) system through a DC-DC converter and a Battery Management System (BMS). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research encompasses both fundamental and applied sciences. 1) on the fundamental science where I study the thermal, mechanical, electromagnetic, and electrothermal energy conversion process for designing and developing the hybrid source thermal desalination system through multi-physics and bond modelling. 2) on applied science where I investigate and evaluate performance, and efficiency of the system including technoeconomic analysis. Assess social and environmental constraints to ensure the system's viability for real-world application and implementation. 
+
+Experience in designing and experimentally evaluating multilevel inverter and dc-dc converter. 
+
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
